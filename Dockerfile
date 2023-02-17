@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/node-hello:1.0
+FROM registry.k8s.io/ingress-nginx/controller:v1.5.1
